@@ -2,9 +2,8 @@
 	-get a proffesional photo taken
 
 -About Page
-	-get a couple photos for
-		Activities 
-		Trips
+	-about me 
+	-
 -Portfolio Page
 	-show off Arduino Videos and Codes (the only thing I liked)
 
