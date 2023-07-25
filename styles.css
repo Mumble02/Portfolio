@@ -40,3 +40,18 @@ nav ul li a:hover{
     margin-left: 8%;
     margin-top: 15%;
 }
+
+.detail h1{
+    font-size: 50px;
+    color: #212121;
+    margin-bottom: 20px;
+}
+
+span{
+    color: #555;
+}
+
+.detail p{
+    color: #555;
+    line-height: 22px;
+}
