@@ -68,14 +68,15 @@ span{
     border-radius: 5px;
 }
 
-.detail h1{
-    font-size: 50px;
+
+.detail h5{
+    font-size: 40px;
     color: #555;
     margin-bottom: 20px;
 }
 
-.detail h5{
-    font-size: 40px;
+.detail h1{
+    font-size: 50px;
     color: #555;
     margin-bottom: 20px;
 }
