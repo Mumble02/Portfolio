@@ -1,0 +1,12 @@
+- Main Page 
+	-get a proffesional photo taken
+
+-About Page
+	-get a couple photos for
+		Activities 
+		Trips
+-Portfolio Page
+	-show off Arduino Videos and Codes (the only thing I liked)
+
+-Contact Page 
+	-add information (ex.email)
