@@ -103,3 +103,14 @@ span{
     border-radius: 5px;
 }
 
+/*for the contact page - reused code from index.html*/
+.detail h1{
+    font-size: 50px;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+.detail p{
+    color: #555;
+    line-height: 22px;
+}
