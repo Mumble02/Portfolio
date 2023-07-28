@@ -79,9 +79,3 @@ span{
     color: #555;
     line-height: 22px;
 }
-
-/*adding a selfie to the about page*/
-#self {
-    float: right;    
-     margin: 0 0 0 15px;
-    }
