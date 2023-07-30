@@ -56,7 +56,7 @@ span{
     line-height: 22px;
 }
 
-/*this is for the download button (secret it doesnt work) but its the css for it lol*/
+/*this is for the button*/
 .detail a{
     background: #212121;
     padding: 10px 18px;
@@ -92,6 +92,7 @@ span{
     line-height: 22px;
 }
 
+/*this is for the github button*/
 .detail a{
     background: #212121;
     padding: 10px 18px;
